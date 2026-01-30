@@ -1,5 +1,5 @@
 export function legjobb() {
-    console.log("A legjobb autó: suzuki helyett a trabant...")
+    console.log("A legjobb autó: Ford!")
 }
 
 export function igaz() {
