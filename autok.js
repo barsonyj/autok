@@ -5,3 +5,7 @@ export function legjobb() {
 export function igaz() {
     return true;
 }
+
+export function hamis() {
+    return false;
+}
