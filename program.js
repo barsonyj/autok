@@ -1,4 +1,4 @@
-import { legjobb } from "./autok.js";
+import { legjobb, sajt } from "./autok.js";
 
 console.log("A program elindult...");
 
@@ -7,5 +7,8 @@ console.log("Függvények:");
 
 legjobb();
 legjobb();
+
+console.log("Az enyem függvények:");
+sajt();
 
 console.log("Kész.")

@@ -9,3 +9,7 @@ export function igaz() {
 export function hamis() {
     return false;
 }
+
+export function sajt() {
+    console.log("Szeretem a sajtot! :)");
+}
